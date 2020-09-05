@@ -1,0 +1,9 @@
+Package: com.bandarhl.wastatuscolor
+Name: WAStatusColor
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome tweak to select any color for WhatsApp status!
+Maintainer: BandarHelal
+Author: BandarHelal
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.alderis
