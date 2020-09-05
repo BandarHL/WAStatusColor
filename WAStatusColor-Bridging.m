@@ -38,6 +38,7 @@
     if (!(picker == nil)) {
         return picker;
     }
+    // to avoid crashing when user hit the button, i just send a empty ViewController :)
     return UIViewController.new;
 }
 @end
